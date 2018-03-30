@@ -8,4 +8,4 @@ This repository will be about to my Flutter adventure. It will contain code samp
 
 ## Medium Posts
 
-* [My Flutter Adventure — Installation and Hello!](https://medium.com/p/5eee6d1ff5ee/edit) - Part 1
+* [My Flutter Adventure — Installation and Hello!](https://medium.com/@durannumit/my-flutter-adventure-installation-and-hello-5eee6d1ff5ee) - Part 1
