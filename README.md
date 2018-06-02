@@ -26,3 +26,6 @@ This repository will be about to my Flutter adventure. It will contain code samp
 * [My Flutter Adventure — Installation and Hello!](https://medium.com/@durannumit/my-flutter-adventure-installation-and-hello-5eee6d1ff5ee) - Part 1
 
 * [My Flutter Adventure — Widgets!](https://medium.com/@durannumit/my-flutter-adventure-widgets-8ea08a7067eb) - Part 2
+
+* [Google I/O 2018 Recap](https://medium.com/@durannumit/google-i-o-2018-flutter-recap-6f06545efd74) - Google I/O 2018 Recap
+
