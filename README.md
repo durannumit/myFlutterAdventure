@@ -29,3 +29,5 @@ This repository will be about to my Flutter adventure. It will contain code samp
 
 * [Google I/O 2018 Recap](https://medium.com/@durannumit/google-i-o-2018-flutter-recap-6f06545efd74) - Google I/O 2018 Recap
 
+* [My Flutter Adventure — Flutter On Fire!](https://medium.com/@durannumit/my-flutter-adventure-flutter-on-fire-93f7e676ff83) - Part 3
+
